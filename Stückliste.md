@@ -1,25 +1,9 @@
-<!DOCTYPE HTML>
-<html lang="de">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Markdown Example</title>
-  <link rel="stylesheet" href="css/style.css">
-  <link rel="stylesheet" href="css/prism.css">
-  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="favicon.ico">
-  <link rel="icon" type="image/png" href="favicon.png" sizes="32x32">
-  <link rel="icon" type="image/png" href="favicon.png" sizes="96x96">
-  <link rel="apple-touch-icon" sizes="180x180" href="favicon.png">
-  <meta name="msapplication-TileImage" content="favicon.png">
-</head>
-<body>
-    <h1>Markdown</h1>
-    <h2>Stückliste</h2>
-    <p>-Laptop: 47--- Microsoft Surface Laptop 6 for business </p>
-    <p>-Drucker: 4--- Kyocera ECOSYS M2735dw/PLUS inkl. 3 Jahre Full Service Vor-Ort</p>
-    <p>-Switches: 4--- Netgear GS108T Network Switches</p>
-    <p>-Router: 1--- Ubiquite EdgeRouterX</p>
-    <p>-AccessPoint: 6--- Netgear AccessPoint</p>
-</body>
-</html>
+# Stückliste
+
+- **Laptop:** 47 × Microsoft Surface Laptop 6 for Business  
+- **Drucker:** 4 × Kyocera ECOSYS M2735dw/PLUS (inkl. 3 Jahre Full Service Vor-Ort)  
+- **Switches:** 4 × Netgear GS108T Network Switches  
+- **Router:** 1 × Ubiquiti EdgeRouter X  
+- **Access Point:** 6 × Netgear Access Point  
+
+
